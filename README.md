@@ -9,7 +9,7 @@ sudo docker-compose -f src/main/docker/mysql.yml
 ```
 in windows:
 
-```bash
+```shell
 docker-compose -f src/main/docker/mysql.yml up
 ```
 You will be able to access the admin page on localhost:8090 and connect with root as username and an empty password by default.
